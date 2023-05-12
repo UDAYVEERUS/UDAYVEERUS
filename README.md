@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available at [https://udayveerus.github.io/Personal-Portfolio-app/](https://udayveerus.github.io/Personal-Portfolio-app/)
 
-- 💬 Ask me about **Frontend, Data-structure**
+- 💬 Ask me about **MERN stack & Data-structure**
 
 - 📫 How to reach me **udayveerus348566@gmail.com**
 
