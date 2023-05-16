@@ -14,9 +14,9 @@
 
 <p align="left"> <a href="https://twitter.com/@udayvee48042413" target="blank"><img src="https://img.shields.io/twitter/follow/@udayvee48042413?logo=twitter&style=for-the-badge" alt="@udayvee48042413" /></a> </p>
 
-- 🌱 I’m currently learning **Back-end course**
+- 🌱 I’m currently learning **React-Native**
 
-- 👨‍💻 All of my projects are available at [https://udayveerus.github.io/Personal-Portfolio-app/](https://udayveerus.github.io/Personal-Portfolio-app/)
+- 👨‍💻 All of my projects are available at [https://udayveerus.github.io/Personal-Portfolio-app/]([https://udayveerus.github.io/Personal-Portfolio-app/](https://main.d244sw7ms9038w.amplifyapp.com/))
 
 - 💬 Ask me about **MERN stack & Data-structure**
 
