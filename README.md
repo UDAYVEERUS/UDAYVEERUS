@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **React-Native**
 
-- 👨‍💻 All of my projects are available at [https://udayveerus.github.io/Personal-Portfolio-app/]([https://udayveerus.github.io/Personal-Portfolio-app/](https://main.d244sw7ms9038w.amplifyapp.com/))
+- 👨‍💻 All of my projects are available at [https://main.d244sw7ms9038w.amplifyapp.com/]
 
 - 💬 Ask me about **MERN stack & Data-structure**
 
