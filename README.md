@@ -1,4 +1,4 @@
-[![MasterHead](https://wcs.uwo.ca/srs/upload/bannerfs.png)
+![MasterHead](https://wcs.uwo.ca/srs/upload/bannerfs.png)
 <h1 align="center">Hi 👋, I'm Udayveer Singh</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 <p align="center">
