@@ -1,8 +1,8 @@
-![MasterHead](https://wcs.uwo.ca/srs/upload/bannerfs.png)
+![MasterHead](https://img.freepik.com/free-vector/website-development-banner_33099-1687.jpg?size=626&ext=jpg&ga=GA1.1.1546980028.1703635200&semt=ais)
 <h1 align="center">Hi 👋, I'm Udayveer Singh</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 <p align="center">
-<img  width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img  width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
   
 </p>
 
@@ -16,13 +16,13 @@
 
 - 🌱 I’m currently learning **React-Native**
 
-- 👨‍💻 All of my projects are available at [https://main.d244sw7ms9038w.amplifyapp.com/]
+- 👨‍💻 All of my projects are available at [https://udayveer-portfolio.vercel.app/]
 
 - 💬 Ask me about **MERN stack & Data-structure**
 
 - 📫 How to reach me **udayveerus348566@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/159a_qLIm1Y-CiS4v0CZFPgI5z2sk9_l3](https://drive.google.com/drive/u/0/folders/159a_qLIm1Y-CiS4v0CZFPgI5z2sk9_l3)
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/159a_qLIm1Y-CiS4v0CZFPgI5z2sk9_l3?usp=drive_link]
 
 - ⚡ Fun fact **I am funny.**
 
