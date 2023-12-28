@@ -1,4 +1,3 @@
-![MasterHead](https://img.freepik.com/free-vector/website-development-banner_33099-1687.jpg?size=626&ext=jpg&ga=GA1.1.1546980028.1703635200&semt=ais)
 <h1 align="center">Hi 👋, I'm Udayveer Singh</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 <p align="center">
