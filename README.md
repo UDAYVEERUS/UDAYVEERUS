@@ -28,10 +28,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://twitter.com/@udayvee48042413" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@udayvee48042413" height="30" width="40" /></a>
-<a href="[https://linkedin.com/in/udayveer singh](https://www.linkedin.com/in/udayveer-singh-180371201/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="udayveer singh" height="30" width="40" /></a>
-<a href="https://instagram.com/udayveer562" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="udayveer562" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/udayveerus34" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="udayveerus34" height="30" width="40" /></a>
+<a href="https://twitter.com/@udayvee48042413" target="blank"><img align="center" src="https://static.dezeen.com/uploads/2023/07/x-logo-twitter-elon-musk_dezeen_2364_col_0.jpg" alt="@udayvee48042413" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/udayveer singh](https://www.linkedin.com/in/udayveer-singh-180371201/)" target="blank"><img align="center" src="https://t3.ftcdn.net/jpg/04/37/88/86/360_F_437888641_XrjjuAwATXWNx10jQurCDaXXJnobhDi4.jpg" alt="udayveer singh" height="30" width="40" /></a>
+<a href="https://instagram.com/udayveer562" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" alt="udayveer562" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/udayveerus34" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="udayveerus34" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><p align="center">
