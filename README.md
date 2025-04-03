@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Udayveer Singh</h1>
-<h3 align="center">A passionate full stack web developer from India</h3>
+<h3 align="center">A passionate full stack web developer</h3>
 <p align="center">
 <img  width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
   
