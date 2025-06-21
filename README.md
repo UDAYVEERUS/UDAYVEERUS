@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **React-Native**
 
-- 👨‍💻 All of my projects are available at [https://udayveer-portfolio.vercel.app/]
+- 👨‍💻 All of my projects are available at [https://uday-portfolio-khaki.vercel.app/]
 
 - 💬 Ask me about **MERN stack & Data-structure**
 
