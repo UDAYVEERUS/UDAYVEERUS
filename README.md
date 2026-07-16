@@ -13,8 +13,6 @@
 
 <p align="left"> <a href="https://twitter.com/@udayvee48042413" target="blank"><img src="https://img.shields.io/twitter/follow/@udayvee48042413?logo=twitter&style=for-the-badge" alt="@udayvee48042413" /></a> </p>
 
-- 🌱 I’m currently learning **React-Native**
-
 - 👨‍💻 All of my projects are available at [https://uday-portfolio-khaki.vercel.app/]
 
 - 💬 Ask me about **MERN stack & Data-structure**
